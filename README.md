@@ -1,5 +1,5 @@
-# CapstoneProject
-GlucoPulse: A Non-Invasive Glucometer 
+# GlucoPulse: A Non-Invasive Glucometer 
+Capstone Project
 
 🩺 GlucoPulse: A Non-Invasive Glucometer
 GlucoPulse is a next-generation, Arduino-based glucometer engineered for non-invasive blood glucose monitoring. Built around the powerful ESP32 microcontroller, it seamlessly integrates hardware, cloud connectivity, and intelligent prediction models to deliver a user-friendly and data-driven health solution.
