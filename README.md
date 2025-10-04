@@ -19,3 +19,4 @@ GlucoPulse is a next-generation, Arduino-based glucometer engineered for non-inv
   🤖 Machine Learning Intelligence: Trained on a curated dataset using polynomial regression, the system adapts to individual physiological patterns for increasingly accurate predictions over time.
 
 🔬 Applications: Perfect for diabetic patients seeking a pain-free monitoring solution, developers exploring embedded AI in healthcare, and researchers working on bio-signal interpretation.
+![glucs](https://github.com/user-attachments/assets/d6f3eddf-43df-43dc-9df6-5476db564502)
