@@ -21,6 +21,7 @@ GlucoPulse is a next-generation, Arduino-based glucometer engineered for non-inv
 🔬 Applications: Perfect for diabetic patients seeking a pain-free monitoring solution, developers exploring embedded AI in healthcare, and researchers working on bio-signal interpretation.
 
 👨‍💻 Development Credits
+
 This capstone project was developed by a team of four passionate Computer Engineering students. I served as the lead developer, overseeing both the hardware integration and software architecture—from sensor interfacing and ESP32 programming to mobile app development and machine learning model training. My three colleagues played key roles in building the mobile application, gathering and preparing the dataset, assembling the circuit, and documenting the development process, making GlucoPulse a truly collaborative and multidimensional effort.
 
 
